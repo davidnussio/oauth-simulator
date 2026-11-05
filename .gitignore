@@ -34,3 +34,6 @@ npm-debug.log*
 # Misc
 .DS_Store
 *.pem
+
+# Service Worker generato (server OAuth simulato)
+apps/web/public/sw.js
